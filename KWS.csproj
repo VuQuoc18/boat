@@ -63,84 +63,84 @@
     <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\CubemapReflection.cs" />
     <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Standard\KWS_ShaderConstants_PlatformSpecific.cs" />
     <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Standard\RenderPass\VolumetricLightingPass.cs" />
-    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\KW_PyramidBlur.cs" />
     <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\CommandPass\ShorelineFoamPassCore.cs" />
-    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Standard\KWS_CoreUtils_PlatformSpecific.cs.cs" />
     <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\SRP\KWS_RTHandleSystem.cs" />
-    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Standard\RenderPass\MaskDepthNormalPass.cs" />
-    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Standard\RenderPass\ShorelineWavesPass.cs" />
     <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\Mesh\MeshUtils.cs" />
     <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\KW_FluidsSimulation2D.cs" />
     <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\KWS_SplineMesh.cs" />
     <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\Editor\KWS_EditorTextDescription.cs" />
-    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\WaterSystemPartial_Editor.cs" />
-    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Standard\WaterSystemPartial_PlatformSpecificLogic.cs" />
-    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\CommandPass\DrawMeshPassCore.cs" />
-    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Standard\RenderPass\WaterPass.cs" />
     <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\ScriptableDatas\ComputeBufferObject.cs" />
     <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Standard\RenderPass\DrawToPosteffectsDepthPass.cs" />
-    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\CommandPass\WaterPassCore.cs" />
-    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\FFT\FFT_GPU.cs" />
     <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\Editor\KWS_EditorShoreline.cs" />
-    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\SRP\KWS_CommonStructs.cs" />
-    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\SRP\KWS_RTHandle.cs" />
     <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\SRP\KWS_DepthBits.cs" />
-    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\KW_FlowMap.cs" />
-    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Standard\RenderPass\ShorelineFoamPass.cs" />
     <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\KWS_CoreUtils.cs" />
     <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\ScriptableDatas\SplineScriptableData.cs" />
-    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\Editor\KWS_EditorCaustic.cs" />
-    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\KW_Buoyancy.cs" />
-    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\ReflectionPass.cs" />
     <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\Editor\VideoTooltipWindow.cs" />
-    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\KW_InteractWithWater.cs" />
     <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Standard\RenderPass\CausticPass.cs" />
-    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\SRP\KWS_MSAASamples.cs" />
     <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Standard\RenderPass\UnderwaterPass.cs" />
-    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Standard\Editor\KWS_EditorPlatformSpecific.cs" />
     <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Standard\RenderPass\DrawMeshPass.cs" />
-    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\UndoProvider.cs" />
-    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Standard\Editor\KWS_EditorProfiles.cs" />
     <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\FFT\KWS_FFT_ToHeightMap.cs" />
-    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\CommandPass\DrawToPosteffectsDepthPassCore.cs" />
     <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Standard\RenderPass\WaterPassHandler.cs" />
     <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\SRP\KWS_RTHandles.cs" />
-    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\ScriptableDatas\ShorelineWavesScriptableData.cs" />
     <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Standard\Editor\KWS_AddLightToWaterRendering_Editor.cs" />
     <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\CommandPass\MaskDepthNormalPassCore.cs" />
-    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\Editor\KWS_EditorFlowmap.cs" />
     <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Standard\KWS_AddLightToWaterRendering.cs" />
     <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\Editor\CustomImporter.cs" />
     <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Standard\RenderPass\ShorelineDrawFoamToScreenPass.cs" />
-    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\Editor\KWS_EditorSplineMesh.cs" />
-    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Standard\RenderPass\OrthoDepthPass.cs" />
     <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\ScriptableDatas\WaterSystemScriptableData.cs" />
     <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\Editor\KWS_Editor.cs" />
     <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\Editor\KWS_EditorUtils.cs" />
     <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\KW_DynamicWaves.cs" />
-    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\PlanarReflection.cs" />
     <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\ReflectionUtils.cs" />
     <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\CommandPass\ShorelineWavesPassCore.cs" />
     <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\KW_WaterDynamicScripts.cs" />
-    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\CommandPass\ReflectionFinalPassCore.cs" />
-    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Standard\RenderPass\ReflectionFinalPass.cs" />
-    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\CommandPass\OrthoDepthPassCore.cs" />
-    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\WaterSystem.cs" />
     <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\CommandPass\VolumetricLightingPassCore.cs" />
     <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Standard\RenderPass\ScreenSpaceReflectionPass.cs" />
     <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Standard\KWS_WaterLights.cs" />
     <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Standard\KWS_Settings.cs" />
     <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\KW_ShorelineWaves.cs" />
-    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\ScriptableDatas\FlowingScriptableData.cs" />
     <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\CommandPass\ScreenSpaceReflectionPassCore.cs" />
-    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\Mesh\MeshQuadTree.cs" />
     <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\KW_Extensions.cs" />
-    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\SharedData.cs" />
     <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\KW_CustomFixedUpdate.cs" />
     <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\SRP\KWS_BufferedRTHandleSystem.cs" />
     <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\CommandPass\ShorelineDrawFoamToScreenPassCore.cs" />
-    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\KWS_ShaderConstants.cs" />
     <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\CommandPass\UnderwaterPassCore.cs" />
+    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\KW_PyramidBlur.cs" />
+    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Standard\KWS_CoreUtils_PlatformSpecific.cs.cs" />
+    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Standard\RenderPass\MaskDepthNormalPass.cs" />
+    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Standard\RenderPass\ShorelineWavesPass.cs" />
+    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\WaterSystemPartial_Editor.cs" />
+    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Standard\WaterSystemPartial_PlatformSpecificLogic.cs" />
+    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\CommandPass\DrawMeshPassCore.cs" />
+    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Standard\RenderPass\WaterPass.cs" />
+    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\CommandPass\WaterPassCore.cs" />
+    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\FFT\FFT_GPU.cs" />
+    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\SRP\KWS_CommonStructs.cs" />
+    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\SRP\KWS_RTHandle.cs" />
+    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\KW_FlowMap.cs" />
+    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Standard\RenderPass\ShorelineFoamPass.cs" />
+    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\Editor\KWS_EditorCaustic.cs" />
+    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\KW_Buoyancy.cs" />
+    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\ReflectionPass.cs" />
+    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\KW_InteractWithWater.cs" />
+    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\SRP\KWS_MSAASamples.cs" />
+    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Standard\Editor\KWS_EditorPlatformSpecific.cs" />
+    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\UndoProvider.cs" />
+    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Standard\Editor\KWS_EditorProfiles.cs" />
+    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\CommandPass\DrawToPosteffectsDepthPassCore.cs" />
+    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\ScriptableDatas\ShorelineWavesScriptableData.cs" />
+    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\Editor\KWS_EditorFlowmap.cs" />
+    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\Editor\KWS_EditorSplineMesh.cs" />
+    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Standard\RenderPass\OrthoDepthPass.cs" />
+    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\PlanarReflection.cs" />
+    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\CommandPass\ReflectionFinalPassCore.cs" />
+    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Standard\RenderPass\ReflectionFinalPass.cs" />
+    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\CommandPass\OrthoDepthPassCore.cs" />
+    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\WaterSystem.cs" />
+    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\ScriptableDatas\FlowingScriptableData.cs" />
+    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\Mesh\MeshQuadTree.cs" />
+    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\SharedData.cs" />
+    <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\KWS_ShaderConstants.cs" />
     <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Standard\RenderPass\CopyColorPass.cs" />
     <Compile Include="Assets\KriptoFX\WaterSystem\WaterResources\Scripts\Core\WaterSystemPartial_CommonLogic.cs" />
   </ItemGroup>
@@ -504,12 +504,28 @@
       <HintPath>Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\Unity.Plastic.Antlr3.Runtime.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Unity.VisualScripting.YamlDotNet">
+      <HintPath>Library\PackageCache\com.unity.visualscripting@1.9.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.TextureAssets">
+      <HintPath>Library\PackageCache\com.unity.visualscripting@1.9.1\Editor\VisualScripting.Core\EditorAssetResources\Unity.VisualScripting.TextureAssets.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.IonicZip">
+      <HintPath>Library\PackageCache\com.unity.visualscripting@1.9.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="unityplastic">
       <HintPath>Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\unityplastic.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="log4netPlastic">
       <HintPath>Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\log4netPlastic.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
+      <HintPath>Library\PackageCache\com.unity.visualscripting@1.9.1\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="ReportGeneratorMerged">
